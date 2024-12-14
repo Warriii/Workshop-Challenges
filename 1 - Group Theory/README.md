@@ -57,7 +57,6 @@ Chall Name | Source | Author | Cryptosystem | Details
 gggg|blahaj 24|warri|Permutation Groups|-
 Mobius|ictf round 27|maple|NA|-
 MatProd|Hitcon 24|maple|General Linear Groups|-
-Coast|ictf 24|maple|Isogenny|-
 
 <!-- I was planning to put Hitcon 22/Chimera in here (not to mention EZpz and eRSA take inpirations from parts of it), but it involves lattices so i'll save it for the last workshop -->
 <!-- gggg was partially inspired from AZ's irrandomcible challenge in idekctf 24, but to this day i still do not understand irreps, neither am I intending to cover category theory, so it's not going to be in here -->
