@@ -52,7 +52,7 @@ Chall Name | Source | Author | Cryptosystem | Details
 LearningWithErrors 1|Cryptohack|ireland|LWE|Refers to the entire category. See links in `LearningWithErrors/`
 LearningWithErrors 2|Cryptohack|ireland|LWE|Refers to the entire category. See links in `LearningWithErrors/`
 Just Lattice|wwf 24|yun|LWE-Regev|Doesn't require lattices, but can be sped up with LLL
-Learning-With-Mistakes|grey 24|jules|RLWE|Not LLL based but is a good introduction to Ring-LWE
+Learning-With-Mistakes|grey 24|jules|LWE|Doesn't require lattices but could be a good introduction
 rolypoly|wwf 24|warri|Giophantus|-
 
 
