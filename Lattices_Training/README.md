@@ -1,0 +1,1 @@
+Training challenges for use in demos/practices in the lattice workshop

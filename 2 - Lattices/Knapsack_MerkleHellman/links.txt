@@ -1,0 +1,2 @@
+Backpack Cryptography --> https://cryptohack.org/challenges/post-quantum/
+Real Eisenstein --> https://cryptohack.org/challenges/maths/
